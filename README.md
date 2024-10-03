@@ -26,17 +26,17 @@ Finally, we have all the tables linked to each other and now we can go ahead to 
 
 ## 3. Create data visualizations:
 
-![image](https://github.com/user-attachments/assets/bb13b3fb-b86c-4693-9e4d-22ff1aae6d72)
+![image](https://github.com/user-attachments/assets/a1ddc834-a407-4077-b7c1-e4777450ec0d)
 
-![image](https://github.com/user-attachments/assets/04791a2b-9a22-427d-8621-eea31d2be971)
+![image](https://github.com/user-attachments/assets/b4d61414-5863-4c51-8495-183462d400eb)
 
-![image](https://github.com/user-attachments/assets/1da0b58b-905f-4988-99d0-b4c723ff882a)
+![image](https://github.com/user-attachments/assets/153cdee3-d7f7-466d-a456-2d144c739a7a)
 
-![image](https://github.com/user-attachments/assets/cea4d7a2-a12e-4f7f-ac90-7b2b7e7d6164)
+![image](https://github.com/user-attachments/assets/70e29b13-7f13-4b4f-b3f1-732a46d8da7f)
 
-![image](https://github.com/user-attachments/assets/cd384c8a-1015-4943-8c5a-028583ffaa5b)
+![image](https://github.com/user-attachments/assets/26fa5849-40c2-4cd0-bd9d-f4c361d704e5)
 
-![image](https://github.com/user-attachments/assets/19988245-a9b6-41cc-9a5e-dba77ed3e16b)
+![image](https://github.com/user-attachments/assets/9dadc97e-e5e0-4f32-8d59-96a045915707)
 
 ## Analysis:
 
