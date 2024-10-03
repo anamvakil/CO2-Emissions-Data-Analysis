@@ -1,4 +1,4 @@
-# CO2 Emissions Data Report in Tableau
+# CO2 Emissions Data Analysis in Tableau
 
 We often come across situations where our data is divided into multiple tables and we need to combine these tables to create a final data report. If we are using Tableau as a tool for data visualization we can perform the following steps:
 
@@ -56,3 +56,6 @@ Conclusions:
   generation or to fuel vehicles and machines.
 - The U.S. is second on the list due to industrialization and population growth
 - In 2011, Australian emissions (including land use and forestry) made the country rank third on the list.
+
+Please click on the link below to see the data visualization in tableau:
+https://public.tableau.com/views/CO2emissions_17242244722020/Dashboard32?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
