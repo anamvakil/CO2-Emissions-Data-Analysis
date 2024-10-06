@@ -44,18 +44,18 @@ Based on the interactive visualization, we can observe the following as shown be
 
 1. Let us consider the GDP scatterplot which showcases that the US has the largest GDP in the world but it does not produce the highest CO2 emissions per capita. Whereas, Qatar has a much smaller GDP and yet produces the highest CO2 emissions per capita in the world.
 
-2. While observing the Energy scatterplot, it can be seen that an increase in Energy consumption per capita is also not directly proportional to an increase in CO2 emissions per capita. All the metrics mentioned in this scatterplot are on a per capita basis. Let us take the example of Iceland that is using 18.16k kgoe of energy while emitting CO2 of 5.90 ppm. Whereas, Qatar consumes 15.34k kgoe of energy and emits CO2 of 44.02 ppm. The difference in energy consumption between these two countries is 3000 kgoe which is relatively small but the difference in overall emissions is very large.
+2. All the metrics mentioned in this Energy scatterplot are on a per capita basis. While observing this scatterplot, it can be seen that an increase in Energy consumption is not directly proportional to an increase in CO2 emissions. Let us take the example of Iceland that is using 18.16k kgoe of energy while emitting CO2 of 5.90 ppm. Whereas, Qatar consumes 15.34k kgoe of energy and emits CO2 of 44.02 ppm. The difference in energy consumption between these two countries is 3000 kgoe which is relatively small but the difference in overall emissions is very large.
 
 
 Conclusions:
 - GDP is not directly proportional to CO2 emissions. Hence, the size of the GDP does not relate to the per capita CO2 emissions
 - Energy consumption per capita is also not directly proportional to CO2 emissions per capita
 - Based on the examples and the scatterplot, we can infer that using different types of energy sources can result in lower per capita CO2 emissions 
-  irrespective of GDP, Population and Energy Consumption
+  irrespective of GDP and Energy Consumption
 - Saudi Arabia tops the list of carbon dioxide-emitting nations, primarily due to the burning of fossil fuels such as coal, oil and natural gas for power 
-  generation or to fuel vehicles and machines.
+  generation or to fuel vehicles and machines
 - The U.S. is second on the list due to industrialization and population growth
-- In 2011, Australian emissions (including land use and forestry) made the country rank third on the list.
+- In 2011, Australian emissions (including land use and forestry) made the country rank third on the list
 
 Please click on the link below to see the data visualization in tableau:
 https://public.tableau.com/views/CO2emissions_17242244722020/Dashboard32?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
