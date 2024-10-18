@@ -50,7 +50,7 @@ Based on the interactive visualization, we can observe the following as shown be
 Conclusions:
 - GDP is not directly proportional to CO2 emissions. Hence, the size of the GDP does not relate to the per capita CO2 emissions
 - Energy consumption per capita is also not directly proportional to CO2 emissions per capita
-- Based on the examples and the scatterplot, we can infer that using different types of energy sources can result in lower per capita CO2 emissions 
+- Based on the examples and the scatterplot, we can infer that using different types of energy sources can result in lower CO2 emissions per capita 
   irrespective of GDP and Energy Consumption
 - Saudi Arabia tops the list of carbon dioxide-emitting nations, primarily due to the burning of fossil fuels such as coal, oil and natural gas for power 
   generation or to fuel vehicles and machines
